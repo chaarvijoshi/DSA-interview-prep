@@ -23,4 +23,6 @@ Welcome to my DSA interview preparation repository.
 
 ---
 
+**Practice Source:** Striver's A2Z DSA Course (TakeUForward)
+
 ⭐ This repository is updated regularly as I learn.
